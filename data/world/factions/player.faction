@@ -1,0 +1,117 @@
+{
+	"flags":[
+
+		{
+			"logo":"graphics/factions/lf/player_lf1_flag.png",
+			"crest":"graphics/factions/lf/player_lf1_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf2_flag.png",
+			"crest":"graphics/factions/lf/player_lf2_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf3_flag.png",
+			"crest":"graphics/factions/lf/player_lf3_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf4_flag.png",
+			"crest":"graphics/factions/lf/player_lf4_crest.png"
+		},
+	
+		{
+			"logo":"graphics/factions/lf/player_lf5_flag.png",
+			"crest":"graphics/factions/lf/player_lf5_crest.png"
+		},
+
+		{
+			"logo":"graphics/factions/lf/player_lf6_flag.png",
+			"crest":"graphics/factions/lf/player_lf6_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf7_flag.png",
+			"crest":"graphics/factions/lf/player_lf7_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf8_flag.png",
+			"crest":"graphics/factions/lf/player_lf8_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf9_flag.png",
+			"crest":"graphics/factions/lf/player_lf9_crest.png"
+		},
+
+		{
+			"logo":"graphics/factions/lf/player_lf10_flag.png",
+			"crest":"graphics/factions/lf/player_lf10_crest.png"
+		},
+
+		{
+			"logo":"graphics/factions/lf/player_lf11_flag.png",
+			"crest":"graphics/factions/lf/player_lf11_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf12_flag.png",
+			"crest":"graphics/factions/lf/player_lf12_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf13_flag.png",
+			"crest":"graphics/factions/lf/player_lf13_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf14_flag.png",
+			"crest":"graphics/factions/lf/player_lf14_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf15_flag.png",
+			"crest":"graphics/factions/lf/player_lf15_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf16_flag.png",
+			"crest":"graphics/factions/lf/player_lf16_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf17_flag.png",
+			"crest":"graphics/factions/lf/player_lf17_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf18_flag.png",
+			"crest":"graphics/factions/lf/player_lf18_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf19_flag.png",
+			"crest":"graphics/factions/lf/player_lf19_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf20_flag.png",
+			"crest":"graphics/factions/lf/player_lf20_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf21_flag.png",
+			"crest":"graphics/factions/lf/player_lf21_crest.png"
+		},
+		
+		{
+			"logo":"graphics/factions/lf/player_lf22_flag.png",
+			"crest":"graphics/factions/lf/player_lf22_crest.png"
+		},
+		
+	],
+}
+
+
